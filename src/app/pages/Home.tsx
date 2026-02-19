@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'motion/react';
-import { Button } from '../components/ui/Button';
+import { Button } from '../components/ui/button';
 import { toast } from 'sonner';
 
 export const Home = () => {
